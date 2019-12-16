@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="initial_bmi">0.0</string>
+    <string name="imperial_height_feet_placeholder">Height (feet)</string>
+    <string name="imperial_height_inches_placeholder">Height (inches)</string>
+    <string name="imperial_weight_placeholder">Weight (lbs)</string>
+    <string name="metric_height_placeholder">Height (cm)</string>
+    <string name="metric_weight_placeholder">Weight (kg)</string>
+    <string name="normal">Normal weight</string>
+    <string name="obese">Obese</string>
+    <string name="overweight">Overweight</string>
+    <string name="switch_off">Metric</string>
+    <string name="switch_on">Imperial</string>
+    <string name="underweight">Underweight</string>
+</resources>
